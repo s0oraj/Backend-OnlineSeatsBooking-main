@@ -39,11 +39,3 @@ Server API End Point: https://onlineseatbooking.onrender.com
 - Integration with Cloudinary for uploading and managing event images.
 - Responsive UI design for seamless user experience across devices.
 
-## Installation
-
-To run the application locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/online-seat-booking.git
-   cd online-seat-booking
