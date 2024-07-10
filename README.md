@@ -1,8 +1,10 @@
 # Online Seat Booking Application
-
 ## Overview
+The Online Seat Booking Application is a full-stack web application built using React for the frontend and Spring Boot for the backend. 
+It allows users to book seats online for various events or venues.
+![image](https://github.com/s0oraj/Backend-OnlineSeatsBooking-main/assets/42529024/809ed896-ea07-474b-a2d0-875b83217ad4)
 
-The Online Seat Booking Application is a full-stack web application built using React for the frontend and Spring Boot for the backend. It allows users to book seats online for various events or venues.
+
 
 ## Technologies Used
 
